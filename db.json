@@ -8,7 +8,7 @@
     },
     {
       "id": 2,
-      "title": "AI 기반 건강 관리 앱",
+      "title": "AI 기반 건강 관리 앱12",
       "lastModified": "2023-06-10",
       "category": "헬스케어"
     },
@@ -32,6 +32,11 @@
       "problem": {
         "notes": [
           {
+            "id": "p1",
+            "content": "기존 스마트홈 시스템의 복잡성",
+            "color": "bg-yellow-300"
+          },
+          {
             "id": "p2",
             "content": "높은 초기 설치 비용",
             "color": "bg-pink-300"
@@ -39,16 +44,6 @@
           {
             "id": "p3",
             "content": "다양한 기기 간 호환성 문제",
-            "color": "bg-blue-300"
-          },
-          {
-            "id": "9c84ae8b-650c-4647-88d4-87bbe2541db8",
-            "content": "에에에에에 투애니원",
-            "color": "bg-green-300"
-          },
-          {
-            "id": "e50fe5f2-7820-427a-afc5-feff5e53f72b",
-            "content": "안되겠네~!",
             "color": "bg-blue-300"
           }
         ]
@@ -237,22 +232,6 @@
           }
         ]
       }
-    },
-    {
-      "title": "new canvas",
-      "id": 9
-    },
-    {
-      "title": "new canvas",
-      "id": 10
-    },
-    {
-      "title": "new canvas",
-      "id": 11
-    },
-    {
-      "title": "new canvas",
-      "id": 12
     }
   ]
 }
